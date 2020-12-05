@@ -1,13 +1,13 @@
-![Travis (.com) branch](https://travis-ci.com/Knochenmark/recipebox.svg?branch=master)
-[![GitHub issues](https://img.shields.io/github/issues/knochenmark/recipebox.svg)](https://github.com/Knochenmark/recipebox/issues)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/knochenmark/recipebox.svg)](https://github.com/Knochenmark/recipebox/pulls) [![Greenkeeper badge](https://badges.greenkeeper.io/Knochenmark/recipebox.svg)](https://greenkeeper.io/)
-![GitHub contributors](https://img.shields.io/github/contributors/knochenmark/recipebox.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/knochenmark/recipebox.svg)
+![Travis (.com) branch](https://travis-ci.com/gappsappscouk/treatments.svg?branch=master)
+[![GitHub issues](https://img.shields.io/github/issues/gappsappscouk/treatments.svg)](https://github.com/gappsappscouk/treatments/issues)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gappsappscouk/treatments.svg)](https://github.com/gappsappscouk/treatments/pulls) [![Greenkeeper badge](https://badges.greenkeeper.io/gappsappscouk/treatments.svg)](https://greenkeeper.io/)
+![GitHub contributors](https://img.shields.io/github/contributors/gappsappscouk/treatments.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/gappsappscouk/treatments.svg)
 
 
 This project offers a simple way to manage your recipe collection. :plate_with_cutlery:
 
-Recipebox utilizes localStorage to store your recipe collection. You can add further recipes, edit existing ones and bookmark your favorites.
+treatments utilizes localStorage to store your recipe collection. You can add further recipes, edit existing ones and bookmark your favorites.
 
 ## Table of Contents
 

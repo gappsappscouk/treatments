@@ -1,5 +1,5 @@
 export class LocalStorageWrapper {
-  private prefix = '_knochenmark_';
+  private prefix = '_gappsappscouk_';
 
   public setItem(key: string, item: any) {
     localStorage.setItem(this.prefixKey(key), JSON.stringify(item));

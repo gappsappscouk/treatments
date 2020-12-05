@@ -67,7 +67,7 @@ export class RecipeBookComponent extends React.Component<IRecipeBookProps> {
             {isEditMode ? <RecipeForm /> : <Recipe />}
           </div>
         </div>
-        <a href='https://github.com/Knochenmark/recipebox/issues' title='Report a bug' className={bugStyle}>
+        <a href='https://github.com/gappsappscouk/treatments/issues' title='Report a bug' className={bugStyle}>
           <Bug />
         </a>
       </div>
